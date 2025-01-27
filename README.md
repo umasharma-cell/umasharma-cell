@@ -8,11 +8,11 @@
   
 <a href="https://www.linkedin.com/in/uma-sharma82/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 <a href="mailto:umas70204@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
-<a href="https://github.com/shubhambendkhale77" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/umasharma-cell" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<img align="right" alt="professional-photo" width="400" src="profile .jpg">
 
 ---
 
@@ -22,7 +22,7 @@
 - 🔭 I'm currently working on enhancing my Full-Stack development skills  
 - 🌱 Learning and growing in the MERN stack ecosystem  
 - 💬 Ask me about Web Development - I'm always happy to help!  
-- ⚡ Fun fact: I'm a Cricket enthusiast 🏏 who codes between matches  
+- ⚡ Fun fact: I'm a positive and creative
 - 📫 Reach me at: umas70204@gmail.com  
 </div>
 
