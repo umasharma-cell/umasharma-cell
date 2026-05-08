@@ -2,17 +2,16 @@
   Hi, I'm Uma Sharma
 </h1>
 
-<h3 align="center" style="color: white;">A Passionate Full-Stack Web Developer who loves building web applications</h3>
+<h3 align="center" style="color: white;">A Passionate Full-Stack Engineer who loves building web applications</h3>
 
 <div align="center">
   
 <a href="https://www.linkedin.com/in/uma-sharma82/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 <a href="mailto:umas70204@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
-<a href="https://uma-sharma-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+<a href="https://uma-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 
 </div>
 
-<img align="right" alt="photo" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 
 
@@ -75,11 +74,13 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="background: #f4f4f9; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umasharma-cell&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=umasharma-cell&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umasharma-cell&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umasharma-cell&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
