@@ -20,8 +20,8 @@
 <div style="background: #f4f4f9; padding: 20px; border-radius: 10px; margin-bottom: 20px; color: black;">
 - 🔭 I'm currently working on enhancing my Full-Stack development skills  
 - 🌱 Learning and growing in the MERN stack ecosystem  
-- 💬 Ask me about Web Development - I'm always happy to help!  
-- ⚡ Fun fact: I'm a positive and creative
+- 💬 I specialize in the **MERN stack** and love turning complex problems into clean, scalable solutions.
+- ⚡ Fun fact: I'm a positive and creative, 
 - 📫 Reach me at: umas70204@gmail.com  
 </div>
 
