@@ -74,8 +74,6 @@
 
 ### 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umasharma-cell&show_icons=true&theme=tokyonight&hide_border=true" />
   
@@ -84,9 +82,20 @@
 
 ---
 
-### 🌟 Let's Connect!
-Scan the QR code below to visit my portfolio:
-
 <div align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/umasharma-cell&size=200x200" alt="QR Code for Portfolio" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinay02022/vinay02022/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinay02022/vinay02022/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/vinay02022/vinay02022/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 🌟 Let's Connect!
+<div align="center">
+  <b>Let's connect and build something amazing together!</b>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/uma-sharma82/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:umas70204@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
